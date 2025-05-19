@@ -3,14 +3,14 @@ table tr td{
 }
 
 table{
-	background-color: #FFFFE0;
+	background-color: #F8F8FF;
 	width: 80%; /* largura da tabela */
 	margin: auto; /* alinhamento centralizado da tabela */
 }
 
 button{
 	color: black; /* cor da fonte */
-	background-color: #FFFFE0;
+	background-color: #F8F8FF;
 	font-size: 12px;
 	/*border-radius: 20px 50px 5px 90px; /* arredonda os cantos */
 	margin-top: 50px;
@@ -20,6 +20,20 @@ button{
 
 	padding-top: 10px;
 	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+h1{
+	color: #B22222;
+	font-size: 50px;
+	font-family: "Playfair Display", serif;
+}
+p{
+	font-size: 25px;
+	color: black;
+	font-family: "Playfair Display", serif;
+	text-align: justifily;
 	padding-left: 10px;
 	padding-right: 10px;
 }
